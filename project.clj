@@ -8,4 +8,5 @@
     [org.lwjgl/lwjgl-opengl "3.3.1"]
     [org.lwjgl/lwjgl-opengl "3.3.1" :classifier "natives-linux"]
     [org.lwjgl/lwjgl-vulkan "3.3.1"]
+    [org.reflections/reflections "0.10.2"]
   ])
