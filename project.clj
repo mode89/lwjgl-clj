@@ -10,4 +10,6 @@
     [org.lwjgl/lwjgl-opengl "3.3.1" :classifier "natives-linux"]
     [org.lwjgl/lwjgl-vulkan "3.3.1"]
     [com.google.guava/guava "31.1-jre"]
-  ])
+  ]
+  :source-paths ["src"]
+  :repl-options {:init-ns lwjgl-clj.vk})
